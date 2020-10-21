@@ -1,0 +1,8 @@
+body{
+  background-color: #5a078e;
+  font-family: "Comic Sans", Arial;
+}
+
+nav ul li{
+  display: inline-block;
+}
