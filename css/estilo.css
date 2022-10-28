@@ -15,3 +15,15 @@ nav ul li{
   background-size: cover;
   background-image: url("../img/933794.jpg");
 }
+
+aside{
+    float: left;
+    width: 30%;
+    clear: both;
+}
+
+section{
+    float: left;
+    width: 70%;
+}
+
