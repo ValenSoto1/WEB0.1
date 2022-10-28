@@ -1,28 +1,2 @@
-body{
-  background-color: #5a078e;
-  font-family: "Comic Sans", Arial;
-}
 
-nav ul li{
-  display: inline-block;
-}
 
-.ewk_cont_banner{
-  height: 100vh;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-image: url("../img/933794.jpg");
-}
-
-aside{
-    float: left;
-    width: 30%;
-    clear: both;
-}
-
-section{
-    float: left;
-    width: 70%;
-}
