@@ -4,4 +4,7 @@ li{
   clear: both;
   color: #00f;
 }
-
+section{
+    float: left;
+    width: 70%;
+}
