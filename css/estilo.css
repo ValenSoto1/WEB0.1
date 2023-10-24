@@ -3,4 +3,7 @@ li{
   width: 30%;
   color: #00f;
 }
-
+section{
+    float: left;
+    width: 70%;
+}
